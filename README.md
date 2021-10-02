@@ -22,4 +22,4 @@
   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 </div>
  
-  ![Snake animation](https://github.com/ilwel/ilwel/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ilwel/ilwel/blob/output/github-contribution-grid-snake.svg)
