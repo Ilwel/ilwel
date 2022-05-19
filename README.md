@@ -1,6 +1,6 @@
 ### Olá, seja bem vindo ao meu perfil
 
-- Autalmente eu trabalho com desenvolvimento web
+- Atualmente eu trabalho com desenvolvimento web
 - Estou me aprofundando mais em Frameworks como React
 - Pronomes: ele/dele
 
