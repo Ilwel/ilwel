@@ -1,9 +1,17 @@
 ### Olá, seja bem vindo ao meu perfil
 
-- Atualmente eu trabalho com desenvolvimento web
-- Estou me aprofundando mais em Frameworks como React
-- Pronomes: ele/dele
-
+- 💻 Desenvolvedor Web
+- 🏠 Moro em Fortaleza - CE
+- 📖 Estou estudando:
+  - Typescript
+  - GraphQl
+- ❤️ Sou apaixonado por:
+  - Tecnologia
+  - Música
+  - Qualquer coisa que me ajude a saciar minha vontade de criar
+- 🔨 Trabalho com:
+  - Monitoria em tecnologia
+  - Desenvolvimento Web
 ##
 
 <div align="center">
@@ -15,11 +23,14 @@
   ##
   
 <div align="center">
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+  
 </div>
  
 ![Snake animation](https://github.com/ilwel/ilwel/blob/output/github-contribution-grid-snake.svg)
