@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 oi, meu nome é ilwel<br>🖥️ programo desde 2017 <br>🪄 amo criar coisas<br>📖 estou estudando next/graphql<br>🎵 nas horas livre eu crio música
+👋 oi, meu nome é ilwel<br>🖥️ programo desde 2017 <br>🪄 amo criar coisas<br>📖 estou estudando next/graphql<br>🎵 nas horas livres eu crio música
 
 
 ## 🌐 Socials:
