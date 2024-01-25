@@ -1,4 +1,4 @@
-# Vou ser o mais direto ao ponto possível aqui
+# Vou ser o mais direto ao ponto quanto possível aqui
 ## Olá! Meu nome é Ilwel
 - 🤓 Atualmente tenho estudado Graphql e Go
 - 🛠️ Trabalho atualmente como desenvolvedor web full stack em uma gerenciadora de risco
