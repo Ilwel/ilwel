@@ -1,6 +1,6 @@
 # Vou ser o mais direto ao ponto quanto possível aqui
 ## Olá! Meu nome é Ilwel
-- 🤓 Atualmente tenho estudado Graphql e Go
+- 🤓 Atualmente tenho estudado Graphql, Go, e Servicenow
 - 🛠️ Trabalho como desenvolvedor web full stack em uma gerenciadora de risco
 - 🛠️ Minha stack de trabalho é Node, Typescript, NextJs
 - 🧙‍♂️ Eu sou bem agnóstico a linguagem e ferramentas, já mexi de tudo um pouco desde 2017
